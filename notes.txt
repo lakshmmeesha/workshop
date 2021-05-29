@@ -1,0 +1,3 @@
+git init---to create a git file
+git add README.md---creates txt file
+git commit -m "first commit"---
