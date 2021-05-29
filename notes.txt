@@ -1,3 +1,4 @@
 git init---to create a git file
-git add README.md---creates txt file
+my name is lakshmeesha
 git commit -m "first commit"---
+im a developer
